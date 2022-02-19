@@ -1,11 +1,12 @@
-# Course Name
+# [course-name]
 
-[Canvas]() | [Contact via Email]() | [Contact via Teams]()
+[Canvas](https://nku.instructure.com/courses/[course-id]) | [Contact via Email](mailto:[instructor-email]) | 
+[Contact via Teams](https://teams.microsoft.com/l/chat/0/0?users=[instructor-email])
 
 ## Course Guidelines
 
-Insert the name of the course, section of the course, and the name of the instructor here. Insert the required 
-materials here.
+[course-name], [course-number]-[section-number], is taught in [semester] by [instructor-name]. The required materials 
+include... The only required material is...
 
 Insert a description of the course here.
 
@@ -14,21 +15,20 @@ Insert a description of the course here.
 Insert the course medium (e.g. online, in-person, hybrid, etc.) and how to access the course (e.g. room number, 
 meeting link, etc.) here.
 
+This course is delivered [course-medium] with assignments, quizzes, and supplemental resources made available on 
+[resource-medium].
+
 ### Tentative Schedule
 
 | Week  | Chapter(s)  | Topic(s)  | Assignment(s)  | Comment(s)  |
-|-------|-------------|-----------|----------------|-------------|
+|:------|:------------|:----------|:---------------|:------------|
 
 
 ## Instructor Guidelines
 
-Insert the name of the instructor here, as well as any pertinent contact information other than what is already 
-included in the other sections; e.g., office number or phone number.
+The instructor for this course is [instructor-name], and he is available via [email](mailto:[instructor-email]), via 
+phone at [instructor-phone], or in his office at [instructor-office].
 
 ### Communication
 
-Insert the preferred medium of communication and estimated turnaround time here.
-
-### Office Hours
-
-Insert the instructor office hours per medium and location here.
+The preferred method of communication is...
