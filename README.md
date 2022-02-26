@@ -12,9 +12,6 @@ Insert a description of the course here.
 
 ### Course Format
 
-Insert the course medium (e.g. online, in-person, hybrid, etc.) and how to access the course (e.g. room number, 
-meeting link, etc.) here.
-
 This course is delivered [course-medium] with assignments, quizzes, and supplemental resources made available on 
 [resource-medium].
 
