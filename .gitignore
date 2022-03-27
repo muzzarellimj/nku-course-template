@@ -12,3 +12,9 @@
 
 # intellij - compilation
 /out/
+
+# webstorm - project-specific node modules
+/node_modules/
+
+# webstorm - automatically generated via package.json
+package-lock.json
