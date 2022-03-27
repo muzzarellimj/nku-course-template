@@ -3,7 +3,7 @@
 # last updated on 3-26-2022
 
 # global - directory-based project configuration
-/.idea/
+.idea/
 
 # global - file-based project configuration
 *.iws
@@ -11,10 +11,10 @@
 *.ipr
 
 # intellij - compilation
-/out/
+out/
 
 # webstorm - project-specific node modules
-/node_modules/
+node_modules/
 
 # webstorm - automatically generated via package.json
 package-lock.json
