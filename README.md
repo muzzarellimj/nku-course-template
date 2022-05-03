@@ -10,15 +10,15 @@ include... The only required material is...
 
 Insert a description of the course here.
 
-### Course Format
+### Delivery Format
 
 This course is delivered [course-medium] with assignments, quizzes, and supplemental resources made available on 
 [resource-medium].
 
 ### Tentative Schedule
 
-| Week  | Chapter(s)  | Topic(s)  | Assignment(s)  | Comment(s)  |
-|:------|:------------|:----------|:---------------|:------------|
+| Week | Topic | Assignment | Comment |
+|:-----|:------|:-----------|:--------|
 
 
 ## Instructor Guidelines
